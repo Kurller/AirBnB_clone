@@ -65,8 +65,7 @@ The Commandline Interpreter can be started by executing the command ./console.py
 Example:
 
 
-
-firdaus@ubuntu:~$ ./console.py
+Kurller@ubuntu:~$ ./console.py
 
 (hbnb) help
 
@@ -94,7 +93,7 @@ Quit command to exit the program
 
 (hbnb) quit
 
-firdaus@ubuntu:~$
+Kurller@ubuntu:~$
 
 OBJECTS IMPLEMENTED
 
